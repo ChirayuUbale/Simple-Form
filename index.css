@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+form{
+    align-items: center;
+    /*justify-content: space-around;*/
+}
+
+label input{
+    top: 50%;
+    left: 30%;
+}
